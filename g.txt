@@ -1,0 +1,51 @@
+--// REFRESH THIS LIST BEFORE YOU MAKE CHANGES
+
+--// WHO CAN EDIT: Nosss, Atman, Kacper, Snuzkebazn
+
+--// SPECIAL: WINTERTIME ADMINS & OWNERS Whitelist
+
+--// '[👑] .. " str.empty " .. <DisplayName>'
+
+--[[ 
+
+	Attemping to Edit Anything below this point will not impact the outcome of the script and you will get logged and blacklisted instantly.
+		
+	Finding this raw file doesn't prove anything to you or your little friends so just be aware of that!
+
+--]]
+
+
+_G.ColdKingz = {
+
+
+	2887631667; -- QSTOMPER, Atman, Co-Owner / Group Holder
+	33414923; -- GRIEFWOODS, OLD Group Holder
+	630576; -- ImBeast, Nosss, Owner
+	
+	1836826832; -- kacper, Admin
+	1166477638; -- kacper, Admin
+	
+        149290866; -- Snuskebazn, Head Of Staff
+	2557947673; -- Snuskebazn, Alt Girlfriend
+	714264167; -- Snuskebazn, Alt
+	
+	2753093941; -- iwuvvmawwioo, Mods
+	79825365; -- AimLockPsycho, Mods
+	1768433698; -- SpoofV4, Mods
+	
+	3164690709; -- Spintheblo3k, Alt
+	2574437929; -- KidFallsOnCurry, Alt
+	3140236611; -- YourBadAtChest, Alt
+	1198916131; -- MrSpyr, Alt
+	1564902533; -- nCopn, Alt
+	849941503; -- 9_G0, Alt
+	45039147; -- Spvros, Alt
+	1254640776; -- sourcecode14, Alt
+	
+	1679879194; -- Caiden, Staff
+	993776565; -- Caiden, Alt
+	
+	3065382921; -- Gavin, Staff
+	
+
+};
