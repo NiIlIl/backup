@@ -1,0 +1,37 @@
+--// REFRESH THIS LIST BEFORE YOU MAKE CHANGES
+
+--// WHO CAN EDIT: Nosss, Atman, Kacper, Snuskebazn
+
+--// BLACKLISTED USERS, YOU WILL NOT BE MISSED.
+
+
+--[[ 
+
+	Attemping to Edit Anything below this point will not impact the outcome of the script and you will get logged and blacklisted instantly.
+	
+	Finding this raw file doesn't prove anything to you or your little friends so just be aware of that!
+
+--]]
+
+
+_G.BlacklistedUsers = {
+
+      -- The two king retards at the top as usual
+      878674194; -- Raycodex, tries desperately to script. Fails horribly.
+      1526990055; -- Racemodex dedicates his life to making anti cheats for roblox. Good job shitter.
+      
+      -- Entire Racemodex fanboy group larping as developers, next time dont execute my scripts before I dox your entire bloodline.
+      2353205712;
+      2023662589; 
+      1323979291;
+      665000158;
+      418339216;
+      1959604247;
+      3282379554;
+      346218297;
+      144123073;
+
+      -- Entire Tenaki crew and friends they're all irrelevant to me but I had to put them here for a few reasons.
+      2415886442; -- Tenaki, irrelevant kid who needs attention.
+      
+};
